@@ -1,1 +1,5 @@
+**Abstract**
 
+This study investigates the dynamic landscape of energy consumption in the United States (U.S.), revealing a notable shift towards sustainability, particularly with the ascendance of natural gas and renewable energy over coal and petroleum. Spanning from historical milestones like the Cold War to the transformative impact of events like the COVID-19 pandemic, our analysis highlights the interplay between external influences and evolving energy patterns.
+
+We further examine patterns in energy consumption through seasonal decomposition and analysis on the total energy consumption mix across natural gas, renewable energy, coal, and petroleum. Then, we further analyze the breakdown of consumption for renewable energy subcategories. These patterns which we reveal underscore the connection between socioeconomic conditions and energy consumption in the U.S.. Through this analysis, we are able to identify the patterns in CO2 emissions, impact of geopolitical events on energy consumption, seasonal patterns in energy consumption, and ultimately understand the country’s efforts to move toward a more sustainable energy landscape.
